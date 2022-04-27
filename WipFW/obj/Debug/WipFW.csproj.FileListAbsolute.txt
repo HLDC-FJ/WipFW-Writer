@@ -1,0 +1,43 @@
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\bin\Debug\WipFW.exe.config
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\bin\Debug\WipFW.exe
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\bin\Debug\WipFW.pdb
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.Form1.resources
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.Properties.Resources.resources
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.csproj.GenerateResource.cache
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.exe
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.pdb
+C:\Users\yoshi\Documents\Visual Studio 2017\Project\WipFW\WipFW\obj\Debug\WipFW.Form2.resources
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.exe.config
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.exe
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.pdb
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.csprojAssemblyReference.cache
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Form1.resources
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Form2.resources
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Properties.Resources.resources
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.csproj.GenerateResource.cache
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.exe
+C:\Users\yoshi\Google ドライブ\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.pdb
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.exe.config
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.exe
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\bin\Debug\WipFW.pdb
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Form1.resources
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Form2.resources
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.Properties.Resources.resources
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.csproj.GenerateResource.cache
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.exe
+C:\Users\yoshi\GoogleDrive\VS_Proj\WipFW\WipFW\obj\Debug\WipFW.pdb
+C:\Proj\VS\WipFW\WipFW\bin\Debug\WipFW.exe.config
+C:\Proj\VS\WipFW\WipFW\bin\Debug\WipFW.exe
+C:\Proj\VS\WipFW\WipFW\bin\Debug\WipFW.pdb
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.csproj.AssemblyReference.cache
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.csproj.SuggestedBindingRedirects.cache
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.Form1.resources
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.Form2.resources
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.Properties.Resources.resources
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.csproj.GenerateResource.cache
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.csproj.CoreCompileInputs.cache
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.exe
+C:\Proj\VS\WipFW\WipFW\obj\Debug\WipFW.pdb
